@@ -1,0 +1,1 @@
+alert("sctart JavaScript")
